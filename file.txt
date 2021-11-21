@@ -2,3 +2,5 @@ print("thomas")
 printf("surendar")
 system.out.print("thomas")
 
+after branch or checkout 
+firstcopy
