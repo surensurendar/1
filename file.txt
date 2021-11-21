@@ -1,4 +1,4 @@
-this is my first page
+print("thomas")
+printf("surendar")
+system.out.print("thomas")
 
-surendar how are u ?
-thomas i am fine
