@@ -1,1 +1,5 @@
 this is my first page
+
+print("thomas")
+printf("surendar")
+system.out.print("thomas")
